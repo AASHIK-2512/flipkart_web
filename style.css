@@ -13,7 +13,7 @@ body{
 }
 header{
     height:60px ;
-    background-color: var(--main-bg-color);
+    background-color: green;
     font-family: 'Lato', sans-serif;
 }
 nav{
